@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pranav Patil.
 - A student.
-- Currently pursuing B.E. in Information Technology at Thadomal Shahani ENgineering College
+- Currently pursuing B.E. in Information Technology at Thadomal Shahani Engineering College

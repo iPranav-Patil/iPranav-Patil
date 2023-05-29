@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 🔭 I’m currently working on Electronic Health Records
-### 🌱 I’m currently learning React js
+### 🌱 I’m currently learning React js<br>
 
 
 ## 🌐 Socials:

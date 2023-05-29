@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iPranav-Patil&theme=dark&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iPranav-Patil&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iPranav-Patil&theme=discord&no-frame=false&no-bg=false&margin-w=4&hide_border=true)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=nekcrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

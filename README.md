@@ -1,4 +1,4 @@
-![](https://github.com/iPranav-Patil/Project 1.gif)
+
 # 💫 About Me:
 ### 🔭 I’m currently working on Electronic Health Records
 ### 🌱 I’m currently learning React js<br>

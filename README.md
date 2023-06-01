@@ -1,15 +1,9 @@
 ![](giffy.gif)
 
-<p align="left">
- 
+
 ### 🔭 I’m currently working on Electronic Health Records
-### 🌱 I’m currently learning React js<br>
-
-<p align="right">
-<img src="/notgif.gif" width=350 height=200 border=2px white>
-</p>
-</p>
-
+### 🌱 I’m currently learning React js <img src="/notgif.gif" width=350 height=200 border=2px white>
+<br>
 <br>
 
 # 🌐 Socials:

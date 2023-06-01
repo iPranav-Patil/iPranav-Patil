@@ -1,5 +1,5 @@
 ![](giffy.gif)
-<div align="right" width=700 height=500>
+<div align="left" width=700 height=500>
   
 ### 🔭 I’m currently working on Electronic Health Records <br> 
 ### 🌱 I’m currently learning React js 

@@ -4,10 +4,12 @@
  
 ### 🔭 I’m currently working on Electronic Health Records
  
-### 🌱 I’m currently learning React js<br>
 </p>
 <p align="right">
 <img src="/notgif.gif" width=200 height=200>
+</p>
+ 
+### 🌱 I’m currently learning React js<br>
 </p>
 
 <br>

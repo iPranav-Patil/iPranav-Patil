@@ -1,9 +1,11 @@
 ![](giffy.gif)
-
+<div align="right" width=700 height=500>
+  
 ### 🔭 I’m currently working on Electronic Health Records <br> 
 ### 🌱 I’m currently learning React js 
+ </div>
 
-<div align="right">
+<div align="right" width=350 height=200>
 <kbd><img src="/notgif.gif" width=350 height=200 border=2px white></kbd>
 </div>
 

@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning React js<br>
 </p>
 <p align="right">
-<img src="/notgif.gif" width=500 height=500>
+<img src="/notgif.gif" width=200 height=200>
 </p>
 
 <br>

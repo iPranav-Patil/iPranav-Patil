@@ -28,6 +28,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iPranav-Patil&theme=discord&no-frame=false&no-bg=false&margin-w=4&hide_border=true)
 <br>
+<br>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=nekcrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -36,16 +37,19 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
+<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iPranav-Patil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br>
 ![Snake animation](https://github.com/iPranav-Patil/iPranav-Patil/blob/output/github-contribution-grid-snake.svg)
-
+<br>
+<br>
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nekcr) 
 
-
+<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=iPranav-Patil&icon=5&color=6)](https://visitcount.itsvg.in)
 

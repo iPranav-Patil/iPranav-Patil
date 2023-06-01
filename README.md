@@ -6,6 +6,9 @@
  
 ### 🌱 I’m currently learning React js<br>
 </p>
+<p align="right">
+<img src="/notgif.gif" width=100>
+</p>
 
 <br>
 

@@ -1,9 +1,9 @@
 ![](giffy.gif)
 
-### 🔭 I’m currently working on Electronic Health Records <br> 
+### 🔭 I’m currently working on Electronic Health Records <br> ![](notgif.gif)
 ### 🌱 I’m currently learning React js 
 
-![](notgif.gif)
+
   
 
 

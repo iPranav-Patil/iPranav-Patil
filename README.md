@@ -1,13 +1,11 @@
 ![](Images/giffy.gif)
-<br><br>
-<img align="right" src="/Images/notgif.gif" width=350 height=200>
+<br>
+<br>
+<img align="right" src="/Images/notgif.gif" width=350 height=200> <br>
 <h3> 🔭 I’m currently working on Electronic Health Records </h3>
 <h3> 🌱 I’m currently learning React js </h3>
-
-
-  
-
-
+<br>
+<br>
 <br>
 
 # 🌐 Socials:

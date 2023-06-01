@@ -1,9 +1,7 @@
 ![](giffy.gif)
 
-| 1st  | 2nd |
-| ------------- | ------------- |
-| ### 🔭 I’m currently working on Electronic Health Records  | ![](notgif.gif)  |
-| ### 🌱 I’m currently learning React js<br>  |
+### 🔭 I’m currently working on Electronic Health Records  | ![](notgif.gif)  |
+### 🌱 I’m currently learning React js<br>  
 <br>
 
 # 🌐 Socials:

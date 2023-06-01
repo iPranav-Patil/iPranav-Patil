@@ -6,7 +6,7 @@
 ### 🌱 I’m currently learning React js<br>
 
 <p align="right">
-<img src="/notgif.gif" width=350 height=200>
+<img src="/notgif.gif" width=350 height=200 border=2px white>
 </p>
 </p>
 

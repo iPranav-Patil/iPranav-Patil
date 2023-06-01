@@ -1,17 +1,11 @@
 ![](giffy.gif)
-<div>
-<div align="left">
-  
+
 ### 🔭 I’m currently working on Electronic Health Records <br> 
 ### 🌱 I’m currently learning React js 
- </div>
 
-<div align="right">
-  
 ![](notgif.gif)
   
-</div>
-</div>
+
 
 <br>
 

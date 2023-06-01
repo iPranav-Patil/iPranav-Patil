@@ -1,8 +1,10 @@
 ![](giffy.gif)
 
 <p align="left">
+ 
 ### 🔭 I’m currently working on Electronic Health Records ![](notgif.gif)
-<p align="right">![](giffy.gif)</p>
+<p align="right"> ![](notgif.gif) </p>
+
 ### 🌱 I’m currently learning React js<br>
 </p>
 <br>

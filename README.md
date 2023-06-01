@@ -3,8 +3,7 @@
 <p align="left">
  
 ### 🔭 I’m currently working on Electronic Health Records
- 
-</p>
+
 <p align="right">
 <img src="/notgif.gif" width=200 height=200>
 </p>

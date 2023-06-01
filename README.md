@@ -3,6 +3,7 @@
 ### 🔭 I’m currently working on Electronic Health Records
 ### 🌱 I’m currently learning React js<br>
 <br>
+
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/pranav-p-4206a8233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-p-4206a8233" height="30" width="40" /></a>

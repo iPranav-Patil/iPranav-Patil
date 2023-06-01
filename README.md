@@ -1,9 +1,9 @@
 ![](giffy.gif)
 
-
+<p align="right"><kbd><img src="/notgif.gif" width=350 height=200 border=2px white></kbd></p>
 ### 🔭 I’m currently working on Electronic Health Records
 ### 🌱 I’m currently learning React js 
-<p align="right"><kbd><img src="/notgif.gif" width=350 height=200 border=2px white></kbd></p>
+
 <br clear="left">
 <br>
 

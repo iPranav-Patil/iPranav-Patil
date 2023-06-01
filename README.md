@@ -1,7 +1,7 @@
 ![](Images/giffy.gif)
 <br>
 <br>
-<img  src="/Images/notgif.gif" align="right" width=350 height=200 style="border: 1px solid white"> <br> 
+<img  src="/Images/notgif.gif" align="right" width=350 height=200 style="border: 5px solid white"> <br> 
 <h3> 🔭 I’m currently working on Electronic Health Records </h3>
 <h3> 🌱 I’m currently learning React js </h3>
 <br>

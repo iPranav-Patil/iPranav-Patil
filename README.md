@@ -50,6 +50,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iPranav-Patil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <br>
 ![Snake animation](https://github.com/iPranav-Patil/iPranav-Patil/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <br>
 

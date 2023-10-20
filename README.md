@@ -5,7 +5,7 @@
 <img  src="/Images/notgif.gif" align="right" width=350 height=200 > <br> 
 </div>
 <h3> 🔭 I’m currently working on EasyDoc Frontend </h3>
-<h3> 🌱 I’m currently learning React js </h3>
+<h3> 🌱 I’m currently learning Redux </h3>
 <br>
 <br>
 <br>

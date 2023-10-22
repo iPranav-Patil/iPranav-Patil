@@ -36,9 +36,9 @@
 <br>
 <br>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nekcrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-<br>
+## 🐦 Random
+<!--[![](https://gtce.itsvg.in/api?username=nekcrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<br>-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>

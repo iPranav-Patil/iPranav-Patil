@@ -31,10 +31,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iPranav-Patil&theme=dark&hide_border=true)<br/>
 <br>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iPranav-Patil&theme=discord&no-frame=false&no-bg=false&margin-w=4&hide_border=true)
 <br>
-<br>
+<br>-->
 
 ## 🐦 Random
 <!--[![](https://gtce.itsvg.in/api?username=nekcrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -45,14 +45,12 @@
 <br>
 
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iPranav-Patil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <br>
 
 <!--![snake gif](https://github.com/iPranav-Patil/iPranav-Patil/blob/output/github-contribution-grid-snake.gif)-->
 
-<br>
-<br>
 
 ---
 
